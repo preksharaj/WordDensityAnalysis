@@ -31,7 +31,7 @@ class Text:
         ve=self.getdict(finalWords)
         return ve
     
-    #function returns  a dictionary of important words alonf with their frequencies {'word1':2,'word2':1,'word3':4}      
+    #function returns  a dictionary of important words along with their frequencies {'word1':2,'word2':1,'word3':4}      
     def getdict(self,finalWords):
         counts = defaultdict(int)
         for j in finalWords:
