@@ -35,7 +35,7 @@ This downloads all the required nltk files.and then close the pop up box.
 Go back to the root directory and run
 `python main.py [URL]`<br />
 The URL you need to scrape should be passed as a command line argument.<br />
-Eg: $ python main.py http://wkbn.com/2017/07/14/spokeswoman-jimmy-carter-out-of-hospital-after-rehydration/amp/
+Eg: `python main.py http://wkbn.com/2017/07/14/spokeswoman-jimmy-carter-out-of-hospital-after-rehydration/amp/`
 
 
 
