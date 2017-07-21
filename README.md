@@ -1,6 +1,6 @@
 # WordDensityAnalysis
 # Problem
-List of common topics that best describe the contents of that page<br />
+List of common topics that best describe the contents of the page<br />
 # Steps to run <br />
 
 1.	Ensure that the package is downloaded and run in the virtual environment to make sure all the modules run as required.
