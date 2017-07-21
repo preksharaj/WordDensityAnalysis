@@ -43,9 +43,9 @@ class Parse:
     def getHeaders(self):
         title=self.getTitle()
         keyword=self.getKeyword()
-        hx=self.getHeading()
+        heading=self.getHeading()
         header=title+ " "+keyword
-        for h in hx: header+=" "+h
+        for h in heading: header+=" "+h
         return header
         
     def getTitle(self):
