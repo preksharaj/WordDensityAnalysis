@@ -32,8 +32,6 @@ class Main:
         
            
         # bag of word on title, meta-keywords, heading
-        #header=title+ " "+keyword
-        #for h in hx: header+=" "+h
         header = h.getHeaders()
         header = t.preprocess(header)
         header=t.sortBag(header)
